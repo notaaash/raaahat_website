@@ -1,0 +1,732 @@
+.divider8 {
+  position: absolute;
+  top: 6px;
+  left: 44px;
+  border-radius: var(--br-11xs);
+  background-color: var(--color-gainsboro-100);
+  width: 2px;
+  height: 40px;
+  overflow: hidden;
+}
+.home4 {
+  position: absolute;
+  top: 20px;
+  left: 77px;
+  line-height: 16px;
+  cursor: pointer;
+}
+.blog4,
+.contact-us6,
+.court4,
+.discover4 {
+  position: absolute;
+  top: 20px;
+  left: 159px;
+  line-height: 16px;
+}
+.blog4,
+.contact-us6,
+.court4 {
+  left: 262px;
+  cursor: pointer;
+}
+.contact-us6,
+.court4 {
+  left: 332px;
+}
+.contact-us6 {
+  left: 413px;
+}
+.left-content4 {
+  position: absolute;
+  top: calc(50% - 26px);
+  left: 160px;
+  width: 614px;
+  height: 52px;
+  flex-shrink: 0;
+}
+.iconsuserline4 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.iconsuserline-wrapper2 {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.frame-wrapper12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+}
+.frame-wrapper11 {
+  position: relative;
+  width: 44px;
+  height: 44px;
+}
+.frame-wrapper10 {
+  position: absolute;
+  top: 0;
+  left: 70px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.icon-jam-icons-outline-l217 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  z-index: 0;
+}
+.button-text9 {
+  position: relative;
+  letter-spacing: 0.5px;
+  line-height: 100%;
+  font-weight: 500;
+}
+.text-container15 {
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+.icon-jam-icons-outline-l218 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  display: none;
+  z-index: 2;
+}
+.text157 {
+  position: relative;
+  line-height: 140%;
+}
+.badge103 {
+  margin: 0 !important;
+  position: absolute;
+  top: 7px;
+  left: 23px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-black);
+  border: 1px solid var(--color-slategray-200);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-12xs-5) var(--padding-7xs-5);
+  z-index: 3;
+  text-align: center;
+  font-size: var(--body-xs-size);
+  color: var(--default-white);
+}
+.button12,
+.frame-parent3 {
+  position: absolute;
+  height: 44px;
+}
+.button12 {
+  top: 0;
+  left: 9px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base) var(--padding-xs);
+  box-sizing: border-box;
+  gap: var(--gap-base);
+}
+.frame-parent3 {
+  top: 22px;
+  left: 1309px;
+  width: 114px;
+  flex-shrink: 0;
+  text-align: left;
+  color: var(--primary-60);
+  font-family: var(--body-s);
+}
+.raahat4 {
+  position: absolute;
+  top: 41px;
+  left: 84px;
+  line-height: 16px;
+  display: inline-block;
+  color: var(--color-lightslategray-300);
+  width: 108px;
+  height: 19px;
+}
+.img-20231212-wa0030-removebg-p-icon4,
+.vector-icon27 {
+  position: absolute;
+  top: 25px;
+  left: 53px;
+  width: 47.2px;
+  height: 52.9px;
+  object-fit: cover;
+}
+.vector-icon27 {
+  height: 26.09%;
+  width: 1.67%;
+  top: 32.61%;
+  right: 9.93%;
+  bottom: 41.3%;
+  left: 88.4%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.divider9,
+.nav-content4 {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.nav-content4 {
+  top: 0;
+  height: 92px;
+  flex-shrink: 0;
+}
+.divider9 {
+  top: 92px;
+  background-color: var(--color-gainsboro-100);
+  height: 1px;
+  overflow: hidden;
+}
+.case-details1,
+.nav4 {
+  position: absolute;
+  font-family: var(--body-large);
+}
+.nav4 {
+  top: 0;
+  left: calc(50% - 720px);
+  background-color: var(--color-gray-100);
+  width: 1440px;
+  height: 93px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--body-m-size);
+}
+.case-details1 {
+  top: 115px;
+  left: calc(50% - 153px);
+  font-size: var(--headline-2-size);
+  letter-spacing: 0.5px;
+  line-height: 76px;
+  display: inline-block;
+  text-align: left;
+  width: 305px;
+}
+.progress-2-child {
+  position: absolute;
+  top: 249px;
+  left: calc(50% - 504px);
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro-200);
+  width: 1007px;
+  height: 273px;
+}
+.div,
+.div1 {
+  position: absolute;
+  top: 309px;
+  left: 804px;
+  color: var(--color-slategray-200);
+}
+.div1 {
+  top: 429px;
+}
+.progress-2-item {
+  position: absolute;
+  top: 544px;
+  left: calc(50% - 505px);
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro-200);
+  width: 1007px;
+  height: 273px;
+}
+.line-div,
+.progress-2-inner {
+  position: absolute;
+  top: 384.5px;
+  left: 217.5px;
+  border-top: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 1006.1px;
+  height: 1px;
+}
+.line-div {
+  top: 679.5px;
+  left: 216.5px;
+}
+.case-type,
+.cnr-no,
+.filing-date,
+.filing-no {
+  position: absolute;
+  top: 309px;
+  left: 270px;
+  font-size: var(--heading-3-size);
+  line-height: 20px;
+}
+.case-type,
+.cnr-no,
+.filing-no {
+  top: 726px;
+}
+.cnr-no,
+.filing-no {
+  top: 609px;
+}
+.filing-no {
+  top: 431px;
+}
+.progress-2-child1,
+.progress-2-child2 {
+  position: absolute;
+  top: 248.5px;
+  left: 707.5px;
+  border-right: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 1px;
+  height: 273.2px;
+}
+.progress-2-child2 {
+  top: 543.5px;
+  left: 706.5px;
+}
+.mphc273930270,
+.sessions-case {
+  position: absolute;
+  top: 608px;
+  left: 804px;
+  color: var(--color-slategray-200);
+}
+.sessions-case {
+  top: 729px;
+}
+.acts1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 58.55px);
+  font-size: var(--headline-2-size);
+  letter-spacing: 0.5px;
+  line-height: 76px;
+  display: inline-block;
+  font-family: var(--body-large);
+  text-align: left;
+  width: 139px;
+}
+.acts-child {
+  position: absolute;
+  top: 120px;
+  left: calc(50% - 503.55px);
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro-200);
+  width: 1007px;
+  height: 273px;
+}
+.acts-item {
+  position: absolute;
+  top: 255.5px;
+  left: 1.5px;
+  border-top: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 1006.1px;
+  height: 1px;
+}
+.under-acts,
+.under-sections {
+  position: absolute;
+  top: 305px;
+  left: 52px;
+  line-height: 20px;
+}
+.under-acts {
+  top: 187px;
+}
+.acts-inner {
+  position: absolute;
+  top: 119.5px;
+  left: 491.5px;
+  border-right: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 1px;
+  height: 273.2px;
+}
+.mphc2739302701,
+.sessions-case1 {
+  position: absolute;
+  top: 184px;
+  left: 589px;
+  font-size: var(--other-caption-size);
+  color: var(--color-slategray-200);
+}
+.sessions-case1 {
+  top: 305px;
+}
+.acts {
+  position: absolute;
+  top: 1584px;
+  left: calc(50% - 502px);
+  width: 1007.1px;
+  height: 393px;
+  font-size: var(--heading-3-size);
+}
+.case-status1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 137px);
+  font-size: var(--headline-2-size);
+  letter-spacing: 0.5px;
+  line-height: 76px;
+  display: inline-block;
+  font-family: var(--body-large);
+  text-align: left;
+  width: 305px;
+}
+.case-status-child {
+  position: absolute;
+  top: 125px;
+  left: calc(50% - 503px);
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro-200);
+  width: 1007px;
+  height: 406px;
+}
+.case-status-inner,
+.case-status-item {
+  position: absolute;
+  top: 257.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 1006px;
+  height: 1px;
+}
+.case-status-inner {
+  top: 393.5px;
+  left: 0.5px;
+}
+.status {
+  position: absolute;
+  top: 311px;
+  left: 56px;
+  line-height: 20px;
+  display: inline-block;
+  width: 101px;
+  height: 29px;
+}
+.latest-hearing-date,
+.next-hearing-date {
+  position: absolute;
+  top: 440px;
+  left: 56px;
+  line-height: 20px;
+}
+.latest-hearing-date {
+  top: 191px;
+  display: inline-block;
+  width: 297px;
+  height: 29px;
+}
+.case-status-child1 {
+  position: absolute;
+  top: 124.5px;
+  left: 492.5px;
+  border-right: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 1px;
+  height: 406px;
+}
+.div2,
+.div3,
+.trail {
+  position: absolute;
+  top: 184px;
+  left: 537px;
+  font-size: var(--other-caption-size);
+  color: var(--color-slategray-200);
+  display: inline-block;
+  width: 155px;
+  height: 34px;
+}
+.div3,
+.trail {
+  top: 314px;
+  left: 504px;
+  width: 125px;
+}
+.div3 {
+  top: 440px;
+  left: 556px;
+}
+.case-status {
+  position: absolute;
+  top: 935px;
+  left: calc(50% - 505px);
+  width: 1008px;
+  height: 531px;
+  font-size: var(--heading-3-size);
+}
+.fir-details1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 128px);
+  font-size: var(--headline-2-size);
+  letter-spacing: 0.5px;
+  line-height: 76px;
+  display: inline-block;
+  font-family: var(--body-large);
+  text-align: left;
+  width: 305px;
+}
+.fir-no,
+.police-station,
+.year {
+  position: absolute;
+  line-height: 20px;
+}
+.fir-no {
+  top: 318px;
+  left: 37px;
+  display: inline-block;
+  width: 130px;
+  height: 29px;
+}
+.police-station,
+.year {
+  top: 443px;
+  left: 58px;
+}
+.police-station {
+  top: 197px;
+  left: 45px;
+  display: inline-block;
+  width: 208px;
+  height: 29px;
+}
+.div5,
+.jahangirabad-police-station {
+  position: absolute;
+  top: 184px;
+  left: 537px;
+  font-size: var(--other-caption-size);
+  color: var(--color-slategray-200);
+  display: inline-block;
+  width: 299px;
+  height: 34px;
+}
+.div5 {
+  top: 440px;
+  left: 515px;
+  width: 125px;
+}
+.fir-details,
+.history-of-case {
+  position: absolute;
+  top: 2072px;
+  left: calc(50% - 500px);
+  width: 1008px;
+  height: 531px;
+  font-size: var(--heading-3-size);
+}
+.history-of-case {
+  top: 0;
+  left: calc(50% - 255px);
+  font-size: var(--headline-2-size);
+  letter-spacing: 0.5px;
+  line-height: 76px;
+  display: inline-block;
+  font-family: var(--body-large);
+  color: var(--neutral-10);
+  text-align: left;
+  width: 577px;
+  height: 77.2px;
+}
+.hearing-history-child {
+  position: absolute;
+  top: 118px;
+  left: calc(50% - 503px);
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro-200);
+  width: 1007px;
+  height: 771px;
+}
+.hearing-history-child1,
+.hearing-history-child2,
+.hearing-history-child3,
+.hearing-history-inner,
+.hearing-history-item {
+  position: absolute;
+  top: 252.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 1006px;
+  height: 1px;
+}
+.hearing-history-child1,
+.hearing-history-child2,
+.hearing-history-child3,
+.hearing-history-inner {
+  top: 384.7px;
+  left: 1.5px;
+}
+.hearing-history-child1,
+.hearing-history-child2,
+.hearing-history-child3 {
+  top: 510.7px;
+}
+.hearing-history-child2,
+.hearing-history-child3 {
+  top: 636.7px;
+}
+.hearing-history-child3 {
+  top: 762.7px;
+}
+.hearing-date,
+.purpose-of-hearing {
+  position: absolute;
+  top: 191.1px;
+  left: 500px;
+  font-size: var(--heading-3-size);
+  line-height: 20px;
+  color: var(--neutral-10);
+  display: inline-block;
+  width: 370px;
+  height: 29.5px;
+}
+.hearing-date {
+  left: 106px;
+  width: 208px;
+}
+.line-icon {
+  position: absolute;
+  top: 117.9px;
+  left: 493px;
+  width: 11px;
+  height: 771.1px;
+  object-fit: contain;
+}
+.div10,
+.div11,
+.div6,
+.div7,
+.div8,
+.div9 {
+  position: absolute;
+  top: 309.9px;
+  left: 504px;
+  display: inline-block;
+  width: 125px;
+  height: 34.6px;
+}
+.div10,
+.div11,
+.div7,
+.div8,
+.div9 {
+  top: 308.9px;
+  left: 98px;
+}
+.div10,
+.div11,
+.div8,
+.div9 {
+  top: 438px;
+  left: 515px;
+}
+.div10,
+.div11,
+.div9 {
+  top: 559.9px;
+  left: 525px;
+}
+.div10,
+.div11 {
+  top: 681.9px;
+  left: 535px;
+}
+.div11 {
+  top: 803.8px;
+  left: 545px;
+}
+.div12,
+.div13,
+.div14,
+.div15,
+.hearing-history {
+  position: absolute;
+  color: var(--color-slategray-200);
+}
+.hearing-history {
+  top: 2707px;
+  left: calc(50% - 500px);
+  width: 1008px;
+  height: 889px;
+}
+.div12,
+.div13,
+.div14,
+.div15 {
+  top: 3139px;
+  left: 326px;
+  display: inline-block;
+  width: 125px;
+  height: 34px;
+}
+.div13,
+.div14,
+.div15 {
+  top: 3270px;
+}
+.div14,
+.div15 {
+  top: 3401px;
+}
+.div15 {
+  top: 3522px;
+}
+.case-details,
+.progress-21 {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+  height: 3776px;
+}
+.progress-21 {
+  top: 0;
+  background-color: var(--default-white);
+}
+.case-details {
+  top: 14px;
+}
+.progress-2 {
+  position: relative;
+  width: 100%;
+  height: 3776px;
+  text-align: right;
+  font-size: var(--other-caption-size);
+  color: var(--neutral-10);
+  font-family: var(--font-droid-sans);
+}
